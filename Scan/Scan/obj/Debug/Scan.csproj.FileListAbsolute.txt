@@ -1,0 +1,7 @@
+C:\Users\emoly\source\repos\Scan\Scan\bin\Debug\Scan.exe.config
+C:\Users\emoly\source\repos\Scan\Scan\bin\Debug\Scan.exe
+C:\Users\emoly\source\repos\Scan\Scan\bin\Debug\Scan.pdb
+C:\Users\emoly\source\repos\Scan\Scan\obj\Debug\Scan.csproj.AssemblyReference.cache
+C:\Users\emoly\source\repos\Scan\Scan\obj\Debug\Scan.csproj.CoreCompileInputs.cache
+C:\Users\emoly\source\repos\Scan\Scan\obj\Debug\Scan.exe
+C:\Users\emoly\source\repos\Scan\Scan\obj\Debug\Scan.pdb
